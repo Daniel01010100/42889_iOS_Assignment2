@@ -1,6 +1,5 @@
 # 42889 iOS Application Development
 ## Developer: Yudong Lu
-## Student ID: 25520723
 
 Project Overview
  	•	Customizable Settings
